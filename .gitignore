@@ -1,0 +1,9 @@
+# Node modules
+node_modules
+
+# Environment
+.env
+
+dist
+yarn-error.log
+.DS_Store
