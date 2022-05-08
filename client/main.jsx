@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom"
 
-import './assets/styles/style.scss'
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 import Root from './config/root'
 
